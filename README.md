@@ -39,8 +39,7 @@ there's something here for everyone. Feel free to fork the repository, submit pu
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, you can reach me at:
-- **Email:** dedatadude@akraji.com
-- **LinkedIn:** [Your LinkedIn Profile](https://uk.linkedin.com/in/rajikudusadewale)
+- **Email:** datawavecapital@gmail.com
 
 Thank you for visiting my repository. Let's innovate and create amazing AI-powered solutions together!
 
